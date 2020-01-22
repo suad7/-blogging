@@ -1,1 +1,2 @@
-### PRIJECT NAME
+### PROJECT NAME
+Blogging
