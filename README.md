@@ -25,6 +25,7 @@ You need the following to start working on the project on your local computer:
  - Boostrap
  - Flask
  ### DEPLOYING (LIVE LINK)
+ https://suad-blog.herokuapp.com/
 
  ### BEHAVIOR DRIVEN DEVELOPMENT (SPECIFICATIONS)
  1.Behavior:
