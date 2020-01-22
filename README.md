@@ -21,6 +21,8 @@ You need the following to start working on the project on your local computer:
 - Ensure you have python3.6 installed in your computer.
 - From the terminal navigate to the cloned project folder.
 ### TECHNOLOGIES USED
-
+- python v3.6
+ - Boostrap
+ - Flask
 
 
