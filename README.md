@@ -1,5 +1,6 @@
 ### PROJECT NAME
 Blogging
+![screenshot](image/screenshot.png)
 ### PROJECT AUTHOR
 Suad M.Shire
 ### DESCRIPTION
