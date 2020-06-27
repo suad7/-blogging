@@ -1,6 +1,7 @@
 ### PROJECT NAME
 Blogging
-![Screen Shot 2020-06-27 at 4 04 51 PM](https://user-images.githubusercontent.com/56633037/85923107-00b74180-b891-11ea-9fed-4acf10bd9e88.png)### PROJECT AUTHOR
+![Screen Shot 2020-06-27 at 4 04 51 PM](https://user-images.githubusercontent.com/56633037/85923107-00b74180-b891-11ea-9fed-4acf10bd9e88.png)
+### PROJECT AUTHOR
 Suad M.Shire
 ### DESCRIPTION
 This is a single web page that allows the user to post blogs and view the blogs quotes as well.
